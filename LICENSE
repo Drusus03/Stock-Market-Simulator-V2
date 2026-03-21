@@ -1,0 +1,90 @@
+COPYRIGHT LICENSE
+
+Stock Market Simulator V2 MAX
+Copyright (c) 2026 Parth
+Dwarkadas J. Sanghvi College of Engineering (DMCE), Mumbai
+All Rights Reserved.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PERMITTED USE
+
+You are allowed to:
+
+  1. Read and study this source code for personal learning purposes.
+  2. Run this project locally on your own machine for educational
+     exploration only.
+  3. Reference the concepts, formulas, and architecture in your own
+     original work, provided you write your own code independently
+     and do not copy any portion of this codebase.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PROHIBITED USE
+
+You are strictly NOT allowed to:
+
+  1. Copy, reproduce, or reuse any part of this source code —
+     in whole or in part — in any project of your own.
+
+  2. Submit this project, or any derivative of it, as your own
+     work in any academic assignment, course, or evaluation.
+
+  3. Use this project or any portion of it in a hackathon,
+     competition, or any event where it would be presented or
+     judged as your own work.
+
+  4. Present, display, or demonstrate this project — live or
+     recorded — as your own creation in any public or private
+     setting, including college presentations, seminars,
+     workshops, or technical fests.
+
+  5. Distribute, publish, upload, or share this source code
+     on any platform (GitHub, GitLab, Kaggle, etc.) without
+     explicit written permission from the author.
+
+  6. Modify and redistribute this code under a different name
+     or identity to misrepresent its origin.
+
+  7. Use this project commercially in any form.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+OWNERSHIP
+
+This project is the sole intellectual property of the author.
+The author retains full copyright over all code, design decisions,
+architecture, documentation, and any other content in this
+repository.
+
+No transfer of ownership or rights is granted by viewing,
+downloading, or studying this project.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+VIOLATIONS
+
+Any violation of these terms may result in:
+
+  - A formal copyright infringement claim.
+  - Reporting to the relevant academic institution
+    for academic dishonesty.
+  - Legal action under applicable intellectual property law.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DISCLAIMER
+
+This software is provided for educational reference only.
+It is not intended for real financial trading or investment advice.
+The author makes no guarantees about the accuracy of simulated
+prices, signals, or any output produced by this software.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+For permissions beyond the scope of this license, contact the
+author directly.
+
+  Author  : Parth
+  College : DMCE, Mumbai
+  Year    : 2026
