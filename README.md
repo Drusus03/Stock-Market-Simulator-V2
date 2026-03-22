@@ -234,7 +234,7 @@ To start a fresh game, delete both files before running.
 
 **Parth**
 AI \& Data Science Engineering — 2nd Semester
-Dwarkadas J. Sanghvi College of Engineering (DMCE), Mumbai
+Datta Meghe College of Engineering (DMCE), Mumbai
 
 > \*"Built from scratch as a college project, grown into a full trading terminal."\*
 
