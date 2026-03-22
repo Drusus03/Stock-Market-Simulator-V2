@@ -6,7 +6,7 @@
 <br>
 
 **Built by Parth — AI & Data Science Engineering, DMCE Mumbai**
-**Dwarkadas J. Sanghvi College of Engineering**
+**Datta Meghe College of Engineering**
 
 ---
 
@@ -245,9 +245,9 @@ where ε ~ N(0, 1),  drift = 0.001,  volatility = 0.02
 
 **Parth**
 AI & Data Science Engineering — Semester 2
-Dwarkadas J. Sanghvi College of Engineering (DMCE), Mumbai
+Datta College of Engineering (DMCE), Mumbai
 
-> *"Built from scratch as a college project, grown into a full trading terminal."*
+> *"Built from scratch as a personal project, grown into a full trading terminal."*
 
 ---
 
