@@ -5,7 +5,7 @@
 
 <br>
 
-**Built by Parth — AI & Data Science Engineering, DMCE Mumbai**
+**Built by Parth — AI & Data Science Engineering**
 **Datta Meghe College of Engineering (DMCE), Navi Mumbai**
 
 ---
