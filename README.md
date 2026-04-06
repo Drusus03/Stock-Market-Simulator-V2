@@ -5,7 +5,7 @@
 
 <br>
 
-**Built by Parth — AI & Data Science Engineering, DMCE Mumbai**
+**Built by Parth — AI & Data Science Engineering**
 **Datta Meghe College of Engineering (DMCE), Navi Mumbai**
 
 ---
@@ -388,7 +388,7 @@ where ε ~ N(0,1),  drift = 0.001,  volatility = 0.02
 ## 👨‍💻 Author
 
 **Parth**
-AI & Data Science Engineering — Semester 2
+AI & Data Science Engineering
 Datta Meghe College of Engineering (DMCE), Navi Mumbai
 
 > *"Built from scratch as a college project, grown into a full trading terminal."*
